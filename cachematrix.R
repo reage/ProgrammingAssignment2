@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## inverse matrix calculator
 
 ## Create an inverse matrix object which can be cached
 
